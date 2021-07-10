@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Screen renders the Screen correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#212124",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+    ]
+  }
+>
+  <Text
+    align="left"
+    bold={true}
+    color="lightGray"
+    fontSize={18}
+    lineHeight={18}
+    marginBottom={24}
+    marginLeft={20}
+    marginTop={40}
+    style={
+      Array [
+        Object {
+          "color": "#818181",
+          "fontFamily": "Roboto",
+          "fontSize": 18,
+          "fontWeight": "bold",
+          "lineHeight": 18,
+          "marginBottom": 24,
+          "marginLeft": 20,
+          "marginTop": 40,
+          "textAlign": "left",
+        },
+      ]
+    }
+  >
+    Welcome User
+    ,
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    autoCapitalize="words"
+    onChangeText={[Function]}
+    placeholder="Enter Your Name"
+    placeholderTextColor="#818181"
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "borderColor": "#818181",
+          "borderRadius": 4,
+          "borderWidth": 2,
+          "color": "#818181",
+          "fontSize": 16,
+          "marginHorizontal": 20,
+          "paddingHorizontal": 16,
+        },
+      ]
+    }
+    testID="TextInput-UserName"
+    underlineColorAndroid="transparent"
+    value="Manoj"
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "marginHorizontal": 20,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#007AFF",
+          "borderRadius": 8,
+          "height": 50,
+          "justifyContent": "center",
+          "marginBottom": 20,
+          "marginTop": 20,
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+      testID="Submit-btn"
+    >
+      <Text
+        align="left"
+        bold={false}
+        color="white"
+        fontSize={16}
+        lineHeight={18}
+        marginBottom={0}
+        marginLeft={0}
+        marginTop={0}
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "Roboto",
+              "fontSize": 16,
+              "lineHeight": 18,
+              "textAlign": "left",
+            },
+          ]
+        }
+      >
+        Submit Name
+      </Text>
+    </View>
+  </View>
+  <Text
+    align="center"
+    bold={false}
+    color="lightGray"
+    fontSize={16}
+    lineHeight={18}
+    marginBottom={20}
+    marginLeft={0}
+    marginTop={0}
+    style={
+      Array [
+        Object {
+          "color": "#818181",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 20,
+          "textAlign": "center",
+        },
+      ]
+    }
+    testID="display-label"
+  >
+    Running on
+     
+    Devices
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginBottom": 20,
+          "marginLeft": 20,
+          "marginRight": 20,
+          "marginTop": 20,
+          "paddingVertical": 20,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "borderRadius": 8,
+          "height": 50,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+      testID="Account-BTN"
+    >
+      <Text
+        align="left"
+        bold={false}
+        color="blue"
+        fontSize={16}
+        lineHeight={18}
+        marginBottom={0}
+        marginLeft={0}
+        marginTop={0}
+        style={
+          Array [
+            Object {
+              "color": "#007AFF",
+              "fontFamily": "Roboto",
+              "fontSize": 16,
+              "lineHeight": 18,
+              "textAlign": "left",
+            },
+          ]
+        }
+      >
+        Go to Account
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "borderRadius": 8,
+          "height": 50,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        align="left"
+        bold={false}
+        color="blue"
+        fontSize={16}
+        lineHeight={18}
+        marginBottom={0}
+        marginLeft={0}
+        marginTop={0}
+        style={
+          Array [
+            Object {
+              "color": "#007AFF",
+              "fontFamily": "Roboto",
+              "fontSize": 16,
+              "lineHeight": 18,
+              "textAlign": "left",
+            },
+          ]
+        }
+      >
+        Go to Profile
+      </Text>
+    </View>
+  </View>
+</View>
+`;

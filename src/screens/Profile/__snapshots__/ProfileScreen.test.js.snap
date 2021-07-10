@@ -1,0 +1,389 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile Screen renders ProfileScreen correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#212124",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 20,
+          "marginLeft": 20,
+          "marginRight": 20,
+          "marginTop": 20,
+          "paddingHorizontal": 12,
+          "paddingVertical": 20,
+        },
+      ]
+    }
+  >
+    <Text
+      align="right"
+      bold={false}
+      color="blue"
+      fontSize={18}
+      lineHeight={20}
+      marginBottom={20}
+      marginLeft={0}
+      marginRight={20}
+      marginTop={0}
+      style={
+        Array [
+          Object {
+            "color": "#007AFF",
+            "fontFamily": "Roboto",
+            "fontSize": 18,
+            "lineHeight": 20,
+            "marginBottom": 20,
+            "textAlign": "right",
+          },
+        ]
+      }
+    >
+      Manoj's Profile
+    </Text>
+    <Text
+      align="center"
+      bold={false}
+      color="yellow"
+      fontSize={18}
+      lineHeight={20}
+      marginBottom={20}
+      marginLeft={0}
+      marginTop={0}
+      style={
+        Array [
+          Object {
+            "color": "#8F9A36",
+            "fontFamily": "Roboto",
+            "fontSize": 18,
+            "lineHeight": 20,
+            "marginBottom": 20,
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      4 Variations of Button
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 20,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "borderRadius": 8,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          align="left"
+          bold={false}
+          color="blue"
+          fontSize={16}
+          lineHeight={18}
+          marginBottom={0}
+          marginLeft={0}
+          marginTop={0}
+          style={
+            Array [
+              Object {
+                "color": "#007AFF",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "lineHeight": 18,
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Press me
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 20,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "backgroundColor": "#334249",
+            "borderRadius": 8,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          align="left"
+          bold={false}
+          color="blue"
+          fontSize={16}
+          lineHeight={18}
+          marginBottom={0}
+          marginLeft={0}
+          marginTop={0}
+          style={
+            Array [
+              Object {
+                "color": "#007AFF",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "lineHeight": 18,
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Press me
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 20,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "backgroundColor": "#007AFF",
+            "borderRadius": 8,
+            "height": 50,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          align="left"
+          bold={false}
+          color="white"
+          fontSize={16}
+          lineHeight={18}
+          marginBottom={0}
+          marginLeft={0}
+          marginTop={0}
+          style={
+            Array [
+              Object {
+                "color": "#FFFFFF",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "lineHeight": 18,
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Press me
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 20,
+          },
+        ]
+      }
+    >
+      <View
+        activeOpacity={0.6}
+        marginBottom={0}
+        marginTop={0}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "borderColor": "#343A42",
+              "borderRadius": 8,
+              "borderWidth": 2,
+              "flexDirection": "row",
+              "height": 50,
+              "justifyContent": "center",
+              "width": "100%",
+            },
+          ]
+        }
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#007AFF",
+              "borderRadius": 8,
+              "height": 50,
+              "left": 0,
+              "position": "absolute",
+              "top": -2,
+              "transform": Array [
+                Object {
+                  "translateX": 0,
+                },
+                Object {
+                  "translateY": 0,
+                },
+              ],
+              "width": 50,
+            }
+          }
+        />
+        <Text
+          align="left"
+          bold={false}
+          color="blue"
+          fontSize={16}
+          lineHeight={18}
+          marginBottom={0}
+          marginLeft={0}
+          marginTop={0}
+          style={
+            Array [
+              Object {
+                "color": "#007AFF",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "lineHeight": 18,
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Slide me to continue
+        </Text>
+      </View>
+    </View>
+    <Text
+      align="right"
+      bold={false}
+      color="blue"
+      fontSize={16}
+      lineHeight={18}
+      marginBottom={20}
+      marginLeft={0}
+      marginTop={0}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#007AFF",
+            "fontFamily": "Roboto",
+            "fontSize": 16,
+            "lineHeight": 18,
+            "marginBottom": 20,
+            "textAlign": "right",
+          },
+        ]
+      }
+      testID="AccountText"
+    >
+      Go to Account
+    </Text>
+    <Text
+      align="right"
+      bold={false}
+      color="blue"
+      fontSize={16}
+      lineHeight={18}
+      marginBottom={0}
+      marginLeft={0}
+      marginTop={0}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#007AFF",
+            "fontFamily": "Roboto",
+            "fontSize": 16,
+            "lineHeight": 18,
+            "textAlign": "right",
+          },
+        ]
+      }
+      testID="HomeText"
+    >
+      Go to Home
+    </Text>
+  </View>
+</View>
+`;

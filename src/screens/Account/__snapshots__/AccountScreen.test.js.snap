@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Account Screen renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#212124",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "paddingBottom": 20,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 20,
+      },
+    ]
+  }
+>
+  <Text
+    align="right"
+    bold={false}
+    color="blue"
+    fontSize={18}
+    lineHeight={20}
+    marginBottom={20}
+    marginLeft={0}
+    marginRight={20}
+    marginTop={0}
+    style={
+      Array [
+        Object {
+          "color": "#007AFF",
+          "fontFamily": "Roboto",
+          "fontSize": 18,
+          "lineHeight": 20,
+          "marginBottom": 20,
+          "textAlign": "right",
+        },
+      ]
+    }
+  >
+    Manoj's Account
+  </Text>
+  <Text
+    align="center"
+    bold={false}
+    color="white"
+    fontSize={18}
+    lineHeight={20}
+    marginBottom={40}
+    marginLeft={0}
+    marginTop={40}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto",
+          "fontSize": 18,
+          "lineHeight": 20,
+          "marginBottom": 40,
+          "marginTop": 40,
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    This is Account Screen
+  </Text>
+  <Text
+    align="left"
+    bold={false}
+    color="blue"
+    fontSize={16}
+    lineHeight={18}
+    marginBottom={28}
+    marginLeft={0}
+    marginTop={0}
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "color": "#007AFF",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "marginBottom": 28,
+          "textAlign": "left",
+        },
+      ]
+    }
+    testID="HomeText"
+  >
+    Go to Home
+  </Text>
+  <Text
+    align="left"
+    bold={false}
+    color="blue"
+    fontSize={16}
+    lineHeight={18}
+    marginBottom={0}
+    marginLeft={0}
+    marginTop={0}
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "color": "#007AFF",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "lineHeight": 18,
+          "textAlign": "left",
+        },
+      ]
+    }
+    testID="ProfileText"
+  >
+    Go to Profile
+  </Text>
+</View>
+`;
